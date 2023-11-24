@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">LoginUi</string>
+    <string name="hi_text"> Hey There</string>
+    <string name="Joinnowtext">Join Now</string>
+    <string name="Createaccounttoget">Create an account to get the full Experience</string>
+    <string name="createaccounttext">Create account</string>
+    <string name="Logintext">Login</string>
+    <string name="or">Or</string>
+    <string name="SigninwithGoogle">Sign in with Google</string>
+    <string name="Signinwithfacebook">Sign in with Facebook</string>
+    <string name="SigninwithApple">Sign in with Apple</string>
+    <string name="LogintoyourAccount">Login to your Account</string>
+    <string name="forgotscreenbody">Please enter your registered email for your verification</string>
+    <string name="Pleaseenteryourusername">Please enter your username or email and password login</string>
+    <string name="Usernameandpasswordfieldtext">Username, email or mobile number</string>
+    <string name="Usernametext">Username</string>
+    <string name="Password">Password</string>
+    <string name="CreateYourAccount">Create Your Account</string>
+    <string name="Createanaccounttoget">Create an account to get the full Experience</string>
+    <string name="Name">Name</string>
+    <string name="enterName">Enter Name</string>
+    <string name="Phone">Phone</string>
+    <string name="Forgotpassword">Forgot Password?</string>
+    <string name="Forgotpassheading">Forgot Password</string>
+    <string name="EnterphoneNumber">Enter Number</string>
+    <string name="Enterpassword">Enter Password</string>
+    <string name="Reenterpassword">Re-enter Password</string>
+    <string name="Enteremail">Enter Email</string>
+    <string name="Email">Email</string>
+    <string name="send">Send</string>
+    <string name="username">Username</string>
+    <string name="enterusername">Enter user name</string>
+    <string name="Dateofbirth">Date of Birth</string>
+    <string name="confrimpassword">Confrim Password</string>
+    <string name="ResetPassword">Reset Password</string>
+    <string name="Pleaseenteryournewpassword">Please enter your new password and confirm password</string>
+    <string name="Gobackname">Go To Home</string>
+
+
+</resources> 
